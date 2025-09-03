@@ -1,3 +1,2 @@
-# Propulsive Landing Team at the University of Connecticut
-##### We are UConn Propulsive Landing, a rocketry team at the University of Connecticut. We are a student run project team, within UConn's AIAA branch (American Institute of Aeronautics and Astronautics). We are working to become the first collegiate team to achieve soft rocket landings with propulsion. 
-#### More information can be found on our website [here.](https://uconnpl.weebly.com/)
+# UConn Rocketry
+##### Welcome to the GitHub page for the UConn Rocketry Team. We are a student run project team, within UConn's AIAA branch (American Institute of Aeronautics and Astronautics). We are working to build a thrust vector controlled rocket hopper powered by a liquid fueled engine. 
